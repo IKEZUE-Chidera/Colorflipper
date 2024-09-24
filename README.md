@@ -17,5 +17,5 @@ In the **Color Flipper project**, the goal is to create a simple web application
     - A title to display the current background color.
     - A button to trigger the color change, which will have two CSS classes and an ID for targeting in JavaScript.
     - A heading that indicates the background color and a span to show the current color value, initially set to gray.
-    - 
+      
 This project serves as a great introduction to handling user interactions and manipulating styles dynamically with JavaScript.
